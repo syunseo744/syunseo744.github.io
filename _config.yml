@@ -1,18 +1,22 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: Bhaveek Desai
+description: 'My take on Technology, Music, Life et al. Please mind my perception'
+url: 'https://bhaveekdesai.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'bhaveekdesai'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Bhaveek Desai'
+  email: bhaveekdesai@gmail.com
+  twitter_username: bhaveekdesai
+  facebook_username: bhaveekdesai
+  github_username: bhaveekdesai
+  linkedin_username: bhaveekdesai
+  instagram_username: bhaveekdesai
+  youtube_username: bhaveekdesai
+  soundcloud_username: bhaveekdesai
+  goodreads_username: bhaveekdesai
 
 defaults:
   -
