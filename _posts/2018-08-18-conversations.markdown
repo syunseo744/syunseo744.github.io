@@ -10,6 +10,7 @@ modified_time: '2018-08-18T22:48:00.815-04:00'
 thumbnail: https://4.bp.blogspot.com/-hhNpDkEn9A8/W3jZHGTlpsI/AAAAAAAAi14/il0_S_NZ2gwcpERzbAMHn4Dj5wO0lRo6ACLcBGAs/s72-c/people-3163556_1920.jpg
 blogger_id: tag:blogger.com,1999:blog-799716689661607658.post-1185382554106144398
 blogger_orig_url: https://bhaveekdesai.blogspot.com/2018/08/conversations.html
+thumbnail_hd: https://4.bp.blogspot.com/-hhNpDkEn9A8/W3jZHGTlpsI/AAAAAAAAi14/il0_S_NZ2gwcpERzbAMHn4Dj5wO0lRo6ACLcBGAs/s400/people-3163556_1920.jpg
 ---
 
 ![](https://4.bp.blogspot.com/-hhNpDkEn9A8/W3jZHGTlpsI/AAAAAAAAi14/il0_S_NZ2gwcpERzbAMHn4Dj5wO0lRo6ACLcBGAs/s400/people-3163556_1920.jpg)*Image: Pixabay*

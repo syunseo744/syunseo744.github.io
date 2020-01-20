@@ -12,6 +12,7 @@ modified_time: '2018-01-08T09:39:12.611-05:00'
 thumbnail: https://4.bp.blogspot.com/-0yWgJhdA778/UPD9gYgNCaI/AAAAAAAAAXE/eYK4XVEi08E/s72-c/1.png
 blogger_id: tag:blogger.com,1999:blog-799716689661607658.post-1613281638631513204
 blogger_orig_url: https://bhaveekdesai.blogspot.com/2013/01/opendns-gibberish.html
+thumbnail_hd: https://4.bp.blogspot.com/-0yWgJhdA778/UPD9gYgNCaI/AAAAAAAAAXE/eYK4XVEi08E/s640/1.png
 ---
 
 My Firefox is configured to pull in the most relevant result page and

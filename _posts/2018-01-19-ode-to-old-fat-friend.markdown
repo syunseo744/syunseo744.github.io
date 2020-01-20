@@ -10,6 +10,7 @@ modified_time: '2018-01-19T23:22:27.719-05:00'
 thumbnail: https://4.bp.blogspot.com/-rAXE8lJYll0/WmK9NY9XZtI/AAAAAAAAcSM/-V8insrzImEPh5UsuXre8xaxfhYW62p5gCLcBGAs/s72-c/Untitled.png
 blogger_id: tag:blogger.com,1999:blog-799716689661607658.post-186438856058255905
 blogger_orig_url: https://bhaveekdesai.blogspot.com/2018/01/ode-to-old-fat-friend.html
+thumbnail_hd: https://4.bp.blogspot.com/-rAXE8lJYll0/WmK9NY9XZtI/AAAAAAAAcSM/-V8insrzImEPh5UsuXre8xaxfhYW62p5gCLcBGAs/s640/Untitled.png
 ---
 
 ![](https://4.bp.blogspot.com/-rAXE8lJYll0/WmK9NY9XZtI/AAAAAAAAcSM/-V8insrzImEPh5UsuXre8xaxfhYW62p5gCLcBGAs/s1600/Untitled.png)

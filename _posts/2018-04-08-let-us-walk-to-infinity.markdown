@@ -10,6 +10,7 @@ modified_time: '2018-04-08T23:15:35.842-04:00'
 thumbnail: https://2.bp.blogspot.com/-C5kMZ9D9IxU/WsrZnWc30MI/AAAAAAAAdYI/msBhBXBuysYgLqi8YeyskANZ8-nLp-syACLcBGAs/s72-c/sea-beach-footprint-steps.jpg
 blogger_id: tag:blogger.com,1999:blog-799716689661607658.post-8988239906200330426
 blogger_orig_url: https://bhaveekdesai.blogspot.com/2018/04/let-us-walk-to-infinity.html
+thumbnail_hd: https://2.bp.blogspot.com/-C5kMZ9D9IxU/WsrZnWc30MI/AAAAAAAAdYI/msBhBXBuysYgLqi8YeyskANZ8-nLp-syACLcBGAs/s400/sea-beach-footprint-steps.jpg
 ---
 
 ![](https://2.bp.blogspot.com/-C5kMZ9D9IxU/WsrZnWc30MI/AAAAAAAAdYI/msBhBXBuysYgLqi8YeyskANZ8-nLp-syACLcBGAs/s400/sea-beach-footprint-steps.jpg)

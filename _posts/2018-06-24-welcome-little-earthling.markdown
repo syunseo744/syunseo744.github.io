@@ -10,6 +10,7 @@ modified_time: '2018-06-24T23:15:43.773-04:00'
 thumbnail: https://4.bp.blogspot.com/-VoNO376O23g/WzBdhW8T-zI/AAAAAAAAeBU/CpjxwW6CXs8MkekcWOQISiVQkV5aPX4rACLcBGAs/s72-c/hands-600497_1920.jpg
 blogger_id: tag:blogger.com,1999:blog-799716689661607658.post-3919995890542974070
 blogger_orig_url: https://bhaveekdesai.blogspot.com/2018/06/welcome-little-earthling.html
+thumbnail_hd: https://4.bp.blogspot.com/-VoNO376O23g/WzBdhW8T-zI/AAAAAAAAeBU/CpjxwW6CXs8MkekcWOQISiVQkV5aPX4rACLcBGAs/s400/hands-600497_1920.jpg
 ---
 
 ![](https://4.bp.blogspot.com/-VoNO376O23g/WzBdhW8T-zI/AAAAAAAAeBU/CpjxwW6CXs8MkekcWOQISiVQkV5aPX4rACLcBGAs/s400/hands-600497_1920.jpg)

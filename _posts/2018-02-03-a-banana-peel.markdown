@@ -10,6 +10,7 @@ modified_time: '2018-02-04T18:18:31.212-05:00'
 thumbnail: https://2.bp.blogspot.com/-DdRld3ZuEqk/WneUkEMKHYI/AAAAAAAAcXU/hWE95KCrcXIStZx7HnuX60Z5nTRC2ZD7gCLcBGAs/s72-c/banana-peel-1735083_640.jpg
 blogger_id: tag:blogger.com,1999:blog-799716689661607658.post-307382196220440061
 blogger_orig_url: https://bhaveekdesai.blogspot.com/2018/02/a-banana-peel.html
+thumbnail_hd: https://2.bp.blogspot.com/-DdRld3ZuEqk/WneUkEMKHYI/AAAAAAAAcXU/hWE95KCrcXIStZx7HnuX60Z5nTRC2ZD7gCLcBGAs/s400/banana-peel-1735083_640.jpg
 ---
 ![](https://2.bp.blogspot.com/-DdRld3ZuEqk/WneUkEMKHYI/AAAAAAAAcXU/hWE95KCrcXIStZx7HnuX60Z5nTRC2ZD7gCLcBGAs/s400/banana-peel-1735083_640.jpg)
 *Image: Pixabay*

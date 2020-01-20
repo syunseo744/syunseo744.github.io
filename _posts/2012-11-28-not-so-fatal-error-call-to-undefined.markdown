@@ -13,6 +13,7 @@ modified_time: '2018-01-08T09:39:31.956-05:00'
 thumbnail: https://4.bp.blogspot.com/-ywl4SZsnfPU/ULbVW8QbuFI/AAAAAAAAAWw/GCyfP1y3TFk/s72-c/Screenshot+from+2012-11-29+08:53:42.png
 blogger_id: tag:blogger.com,1999:blog-799716689661607658.post-850301545328108295
 blogger_orig_url: https://bhaveekdesai.blogspot.com/2012/11/not-so-fatal-error-call-to-undefined.html
+thumbnail_hd: https://4.bp.blogspot.com/-ywl4SZsnfPU/ULbVW8QbuFI/AAAAAAAAAWw/GCyfP1y3TFk/s640/Screenshot+from+2012-11-29+08:53:42.png
 ---
 
 I wake up early morning with an athlete's enthusiasm to start my
@@ -36,10 +37,6 @@ visit my another loyal servent, phpmyadmin.
 That's when I hit the ground.
 
 ![](https://4.bp.blogspot.com/-ywl4SZsnfPU/ULbVW8QbuFI/AAAAAAAAAWw/GCyfP1y3TFk/s640/Screenshot+from+2012-11-29+08:53:42.png)
-
-![](http://4.bp.blogspot.com/-ywl4SZsnfPU/ULbVW8QbuFI/AAAAAAAAAWw/GCyfP1y3TFk/s1600/Screenshot+from+2012-11-29+08:53:42.png)
-
-![](http://3.bp.blogspot.com/-lvZd7BZaRAM/ULbI_5rhliI/AAAAAAAAAWI/yWIUHd0YeFw/s1600/Screenshot+from+2012-11-29+07:46:55.png)
 
 "What the fuck is this?"  
 Oh ok, 1st instinct told me to correct the function syntax on the

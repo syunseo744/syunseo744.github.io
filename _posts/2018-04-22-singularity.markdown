@@ -11,6 +11,7 @@ modified_time: '2018-04-22T23:18:53.172-04:00'
 thumbnail: https://2.bp.blogspot.com/-D-hpgDHBeSQ/Wt1PbYnhvgI/AAAAAAAAdgQ/EDx_XR-BbQIpFvKOKMNv7P9i42N7W-k-ACLcBGAs/s72-c/Singularidad-kF0C--1240x698%2540abc.jpg
 blogger_id: tag:blogger.com,1999:blog-799716689661607658.post-7557912828694546112
 blogger_orig_url: https://bhaveekdesai.blogspot.com/2018/04/singularity.html
+thumbnail_hd: https://2.bp.blogspot.com/-D-hpgDHBeSQ/Wt1PbYnhvgI/AAAAAAAAdgQ/EDx_XR-BbQIpFvKOKMNv7P9i42N7W-k-ACLcBGAs/s640/Singularidad-kF0C--1240x698%2540abc.jpg
 ---
 
 ![](https://2.bp.blogspot.com/-D-hpgDHBeSQ/Wt1PbYnhvgI/AAAAAAAAdgQ/EDx_XR-BbQIpFvKOKMNv7P9i42N7W-k-ACLcBGAs/s640/Singularidad-kF0C--1240x698%2540abc.jpg)

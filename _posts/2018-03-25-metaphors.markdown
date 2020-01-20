@@ -9,6 +9,7 @@ modified_time: '2018-03-25T20:51:39.118-04:00'
 thumbnail: https://3.bp.blogspot.com/-psxUaAE8E9Q/WrhC3e_pwyI/AAAAAAAAdQg/Lxp0IEGLjskboaerA0MSUql9JvYFAT2RwCLcBGAs/s72-c/IMG_20170305_155145169.jpg
 blogger_id: tag:blogger.com,1999:blog-799716689661607658.post-4472701775254830967
 blogger_orig_url: https://bhaveekdesai.blogspot.com/2018/03/metaphors.html
+thumbnail_hd: https://3.bp.blogspot.com/-psxUaAE8E9Q/WrhC3e_pwyI/AAAAAAAAdQg/Lxp0IEGLjskboaerA0MSUql9JvYFAT2RwCLcBGAs/s400/IMG_20170305_155145169.jpg
 ---
 
 ![](https://3.bp.blogspot.com/-psxUaAE8E9Q/WrhC3e_pwyI/AAAAAAAAdQg/Lxp0IEGLjskboaerA0MSUql9JvYFAT2RwCLcBGAs/s400/IMG_20170305_155145169.jpg)
