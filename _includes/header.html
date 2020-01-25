@@ -29,7 +29,7 @@
               <li class="navigation__item"><a href="{{ site.baseurl }}/know" title="Know more about me" class="blog-button">Know</a></li>
             </ul>
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/resume" title="My resume" class="blog-button">Resume</a></li>
+              <li class="navigation__item"><a href="http://bit.ly/bdesai_resume" target="_blank" title="My resume" class="blog-button">Resume</a></li>
             </ul>
           </nav>
 
@@ -123,7 +123,7 @@
             {% if site.author.email %}
               <!-- Email -->
               <li class="navigation__item">
-                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
+                <a href="mailto:{{ site.author.email | encode_email }}" title="Email {{ site.author.email }}" target="_blank">
                   <i class="icon icon-mail"></i>
                   <span class="label">Email</span>
                 </a>
