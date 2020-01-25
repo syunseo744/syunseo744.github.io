@@ -71,4 +71,10 @@ img + em {
 
 .post-list__thumbnail {
   display: block;
+  max-width: 100%;
+}
+
+.post-title {
+  font-size: 2.5em;
+  color: red;
 }
