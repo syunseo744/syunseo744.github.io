@@ -8,7 +8,7 @@ Here is an exposition of some of my works. This consists of endeavors, mostly te
 
 ---
 #### Brain-Computer Interface Drums
-{% youtube "https://www.youtube.com/watch?v=Yg1Ebh9W6mA" %}
+<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Yg1Ebh9W6mA?rel=0" width="100%"></iframe>
 
 ---
 #### Mindtrack: Using Brain-Computer Interface to Translate Emotions into Music
