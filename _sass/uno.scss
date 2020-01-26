@@ -1599,7 +1599,7 @@ input[type="tel"] {
 		margin: 0 auto; }
 
 	.panel-cover__divider--secondary {
-		display: none; }
+		}
 
 	.panel-cover {
 		width: 100%;
@@ -1620,7 +1620,7 @@ input[type="tel"] {
 			.panel-cover.panel-cover--collapsed .panel-cover__description {
 				display: none; }
 			.panel-cover.panel-cover--collapsed .panel-cover__divider {
-				display: none;
+				
 				margin: 1em auto; }
 
 	.navigation-wrapper {
