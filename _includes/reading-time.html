@@ -1,0 +1,4 @@
+{% capture words %}
+{{ content | strip_html | strip_newlines | remove: " " | number_of_words }}
+{% endcapture %}
+{{ words | divided_by: 300 | plus: 1 | pluralize: "min" }}
