@@ -1,4 +1,5 @@
 {% capture words %}
-{{ content | strip_html | strip_newlines | remove: " " | number_of_words }}
+  {{ include.post_content | strip_html | number_of_words }}
 {% endcapture %}
-{{ words | divided_by: 300 | plus: 1 | pluralize: "min" }}
+{% assign time = words | divided_by: 350 | plus: 1 %}
+<span class="post-readtime">{{ time }} {%if time > 1 %}mins{% else %}min{% endif %} to read</span>
